@@ -1,0 +1,27 @@
+{
+  "name": "gear-launcher",
+  "version": "1.0.0",
+  "description": "Gear Launcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyzzz/gear-launcher.git"
+  },
+  "keywords": [
+    "Launcher"
+  ],
+  "author": "Snyzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snyzzz/gear-launcher/issues"
+  },
+  "homepage": "https://github.com/snyzzz/gear-launcher#readme",
+  "dependencies": {
+    "buffer.ws": "^1.0.5",
+    "ws": "^8.3.0"
+  },
+  "type": "module"
+}
